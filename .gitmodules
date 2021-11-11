@@ -9,4 +9,4 @@
 	url = https://github.com/microsoft/Detours
 [submodule "libs/sws"]
 	path = libs/sws
-	url = https://github.com/valinet/sws
+	url = https://github.com/Henri-J-Norden/sws
